@@ -51,7 +51,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 💬 [**Customer Support Chatbot**](https://github.com/Basmala-Ahmedd/Customer-Support-RAG-Powered-Chatbot) | Built an advanced RAG chatbot using LangGraph for multi-agent workflows and stateful conversation flows. | `Python`, `LangChain`, `LangGraph`, `LLMs` |
+| 💬 **Customer Support Chatbot** | Built an advanced RAG chatbot using LangGraph for multi-agent workflows and stateful conversation flows. | `Python`, `LangChain`, `LangGraph`, `LLMs` |
 | ⭐ **Fake Review Detection** | NLP-powered sentiment and classification model for detecting fake online reviews. | `Python`, `NLP`, `Scikit-Learn` |
 | 🚲 **Ford GoBike Dashboard** | Interactive, insightful data visualization dashboard. | `Python`, `Plotly`, `Dash`, `Pandas` |
 | 💳 **Credit Card Fraud Detection** | ML classification pipeline designed to handle highly imbalanced datasets. | `Python`, `Scikit-Learn`, `Pandas` |
