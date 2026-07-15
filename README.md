@@ -55,8 +55,6 @@
 | ⭐ **Fake Review Detection** | NLP-powered sentiment and classification model for detecting fake online reviews. | `Python`, `NLP`, `Scikit-Learn` |
 | 🚲 **Ford GoBike Dashboard** | Interactive, insightful data visualization dashboard. | `Python`, `Plotly`, `Dash`, `Pandas` |
 | 💳 **Credit Card Fraud Detection** | ML classification pipeline designed to handle highly imbalanced datasets. | `Python`, `Scikit-Learn`, `Pandas` |
-| 🚗 **AI Car Health Platform** | Intelligent system for vehicle diagnostics (Graduation Project). | `Python`, `Machine Learning` |
-
 ---
 
 ## 📊 GitHub Analytics
@@ -82,10 +80,10 @@
   <a href="https://www.linkedin.com/in/basmala-ahmed-ai-ds" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:basmalaahmed182005@gmail.com">
+  <a href="basmalaahmed182005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/https://github.com/Basmala-Ahmedd">
+  <a href="https://github.com/Basmala-Ahmedd">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
