@@ -61,12 +61,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Basmala-Ahmedd&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basmala-Ahmedd&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Basmala-Ahmedd&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Basmala-Ahmedd&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Basmala-Ahmedd&layout=compact&theme=tokyonight" />
 </p>
 
 ---
